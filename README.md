@@ -184,9 +184,9 @@ cd customer-churn-analytics
 
 # 📞 Contact
 Patibandla Mahendra
-📧 Email: mahendrapatibandla7@gmail.com
-💼 LinkedIn: linkedin.com/in/mahendrapatibandla
-🐱 GitHub: @MahendraPatibandla
+* 📧 Email: mahendrapatibandla7@gmail.com
+* 💼 LinkedIn: linkedin.com/in/mahendrapatibandla
+* 🐱 GitHub: @MahendraPatibandla
 
 <div align="center">
 ⭐ If you found this project helpful, please consider giving it a star!
