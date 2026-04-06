@@ -144,7 +144,7 @@ Steps to Run:
 1.Clone the Repository
 
 bash  
-git clone https://github.com/yourusername/customer-churn-analytics.git
+git clone https://github.com/MahendraPatibandla/customer-churn-analytics.git
 cd customer-churn-analytics
 
 2.Open the Dataset
