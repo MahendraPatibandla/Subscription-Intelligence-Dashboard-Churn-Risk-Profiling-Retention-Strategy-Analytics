@@ -4,10 +4,10 @@
 
 # 📋 Table of Contents
 
-Project Overview
-Business Problem
-Dataset Information
-Key Features
+* Project Overview
+* Business Problem
+* Dataset Information
+* Key Features
 Tools & Technologies
 Data Preparation
 Dashboard Components
