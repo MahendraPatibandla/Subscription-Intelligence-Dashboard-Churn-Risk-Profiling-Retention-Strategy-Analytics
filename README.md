@@ -13,7 +13,6 @@
 * Dashboard Components
 * Key Insights
 * Installation & Usage
-* Project Structure
 * Future Enhancements
 * Contact
 
@@ -165,18 +164,6 @@ cd customer-churn-analytics
 * Use slicers to filter by demographics, subscription type, etc.
 * Click on visuals for cross-filtering
 * Export insights as needed
-
-# Project Structure
-customer-churn-analytics/
-│
-├── data/
-│   └── churn_analysis_dataset.csv          # Raw dataset
-│
-├── reports/
-│   └── Churn_Analysis_Dashboard.pbix       # Power BI dashboard file
-│
-│
-└── README.md                                # Project documentation
 
 
 🔮 Future Enhancements
